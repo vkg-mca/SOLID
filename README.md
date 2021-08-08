@@ -13,16 +13,16 @@
 ![Design](https://github.com/vkg-mca/SOLID/blob/main/Images/6.jpg)
 ![Design](https://github.com/vkg-mca/SOLID/blob/main/Images/7.jpg)
 
-### ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) Rigidity
+#### ![#FFFF00](https://via.placeholder.com/15/FFFF00/000000?text=+) Rigidity
 ![Design](https://github.com/vkg-mca/SOLID/blob/main/Images/8.jpg)
 
-### ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) Fragility
+#### ![#FFFF00](https://via.placeholder.com/15/FFFF00/000000?text=+) Fragility
 ![Design](https://github.com/vkg-mca/SOLID/blob/main/Images/9.jpg)
 
-### ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) Immobility
+#### ![#FFFF00](https://via.placeholder.com/15/FFFF00/000000?text=+) Immobility
 ![Design](https://github.com/vkg-mca/SOLID/blob/main/Images/10.jpg)
 
-### ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) Viscosity
+#### ![#FFFF00](https://via.placeholder.com/15/FFFF00/000000?text=+) Viscosity
 ![Design](https://github.com/vkg-mca/SOLID/blob/main/Images/11.jpg)
 
 ### ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) Design
