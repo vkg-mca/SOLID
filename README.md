@@ -36,6 +36,8 @@
 ![SOLID](https://github.com/vkg-mca/SOLID/blob/main/Images/18.jpg)
 ![SOLID](https://github.com/vkg-mca/SOLID/blob/main/Images/19.jpg)
 ![SOLID](https://github.com/vkg-mca/SOLID/blob/main/Images/20.jpg)
+![SRP](https://github.com/vkg-mca/SOLID/blob/main/Source/01-SingleResponsibilityPrinciple.cs)
+
 ![SOLID](https://github.com/vkg-mca/SOLID/blob/main/Images/21.jpg)
 ![SOLID](https://github.com/vkg-mca/SOLID/blob/main/Images/22.jpg)
 ![SOLID](https://github.com/vkg-mca/SOLID/blob/main/Images/23.jpg)
